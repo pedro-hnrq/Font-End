@@ -16,13 +16,13 @@
     align-items: center;
     justify-content: center;
     flex-flow: column;
-    padding-bottom: 60px;
+    padding-bottom: 90px;
 }
 
 .container form{
-    background: #fff;
-    border-radius: 5px;
-    box-shadow: 0 10px 15px rgba(0,0,0,.1);
+    background: #ffffff;
+    border-radius: 20px;
+    box-shadow: 8px 10px 15px rgba(0,0,0,.1);
     padding: 20px;
     width: 600px;
     padding-top: 160px;
@@ -58,7 +58,7 @@
 
 .container form .submit-btn{
     width: 100%;
-    background:linear-gradient(45deg, blueviolet, deeppink);
+    background:linear-gradient(45deg, rgb(112, 28, 190), rgb(27, 177, 155));
     margin-top: 20px;
     padding: 10px;
     font-size: 20px;
