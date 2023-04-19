@@ -24,13 +24,13 @@ body {
   border-radius: 8px;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
 }
-.input-box i,
+.input-box .uil-search,
 .input-box .button {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
 }
-.input-box i {
+.input-box .uil-search {
   left: 20px;
   font-size: 30px;
   color: #707070;
