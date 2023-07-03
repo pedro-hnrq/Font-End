@@ -189,11 +189,11 @@
   align-items: center;
   flex-wrap: nowrap;
 }
-.sidebar li img{
+.sidebar li .perfil{
   height: 45px;
   width: 45px;
   object-fit: cover;
-  border-radius: 6px;
+  border-radius: 22px;
   margin-right: 10px;
 }
 .sidebar li.profile .name,
